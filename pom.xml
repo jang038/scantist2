@@ -39,7 +39,14 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>3.2.3.RELEASE</version>
+      <version>3.2.4</version>
     </dependency>
   </dependencies>
+  <repositories>
+        <repository>
+            <id>spring-releases</id>
+            <name>Spring Releases</name>
+            <url>https://repo.spring.io/libs-release</url>
+        </repository>
+ </repositories>
 </project>
