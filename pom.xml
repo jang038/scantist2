@@ -37,10 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.richfaces</groupId>
-      <artifactId>richfaces-bom</artifactId>
-      <version>5.0.0.Alpha3</version>
-    <type>pom</type>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi</artifactId>
+      <version>3.10-FINAL</version>
     </dependency>
   </dependencies>
   <repositories>
