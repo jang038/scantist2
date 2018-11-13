@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>3.2.3.RELEASE</version>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>subversion</artifactId>
+      <version>1.53</version>
     </dependency>
   </dependencies>
   <repositories>
