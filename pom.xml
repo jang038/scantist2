@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.jenkins-ci.plugins</groupId>
-      <artifactId>subversion</artifactId>
-      <version>1.51</version>
+      <groupId>org.richfaces</groupId>
+      <artifactId>richfaces-bom</artifactId>
+      <version>5.0.0.Alpha3</version>
     </dependency>
   </dependencies>
   <repositories>
