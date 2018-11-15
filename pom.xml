@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-core</artifactId>
-      <version>2.3.29</version>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-admin-manager</artifactId>
+      <version>1.2.2</version>
     </dependency>
   </dependencies>
   <repositories>
