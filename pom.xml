@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.apache.cxf</groupId>
-    <artifactId>cxf-core</artifactId>
-      <version>3.2.4</version>
+      <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>mailer</artifactId>
+      <version>1.20</version>
     </dependency>
   </dependencies>
   <repositories>
