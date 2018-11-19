@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.apache.solr</groupId>
-    <artifactId>solr-solrj</artifactId>
-      <version>7.3.0</version>
+      <groupId>org.apache.cxf</groupId>
+    <artifactId>cxf-core</artifactId>
+      <version>3.2.4</version>
     </dependency>
   </dependencies>
   <repositories>
