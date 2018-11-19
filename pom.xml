@@ -49,10 +49,4 @@
             <url>https://repo.spring.io/libs-release</url>
         </repository>
  </repositories>
-  <exclusions>
-                <exclusion>
-                    <groupId>com.sun.java</groupId>
-                    <artifactId>tools</artifactId>
-                </exclusion>
-            </exclusions>
 </project>
