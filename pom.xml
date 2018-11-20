@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>com.github.tomakehurst</groupId>
-    <artifactId>wiremock</artifactId>
-      <version>2.15.0</version>
+      <groupId>org.apache.solr</groupId>
+    <artifactId>solr-solrj</artifactId>
+      <version>7.3.1</version>
     </dependency>
   </dependencies>
   <repositories>
