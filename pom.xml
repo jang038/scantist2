@@ -37,9 +37,9 @@
       <type>maven-plugin</type>
     </dependency>
     <dependency>
-      <groupId>org.jenkins-ci.plugins</groupId>
-    <artifactId>mailer</artifactId>
-      <version>1.20</version>
+      <groupId>org.apache.solr</groupId>
+    <artifactId>solr-solrj</artifactId>
+      <version>7.3.1</version>
     </dependency>
   </dependencies>
   <repositories>
